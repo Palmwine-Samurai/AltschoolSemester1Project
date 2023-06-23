@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.wrapper {
+  width: 100%;
+}
+li {
+  list-style-type: none;
+  color: #141414;
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+}
+.first-section {
+  width: 100%;
+  background-color: ;
+  height: 100vh;
+  padding: 0px 145px;
+}
+.navbar {
+  display: flex;
+ align-items: center;
+ justify-content: space-between;margin-top: 12px;
+
+}
+.nav-links{
+    display: flex;
+
+}
