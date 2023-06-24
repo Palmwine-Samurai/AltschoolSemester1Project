@@ -1,8 +1,25 @@
+@font-face {
+  font-family: "gilroy-regular";
+  src: url("../Assets/Gilroy-Font/Gilroy-Regular.ttf");
+}
+@font-face {
+  font-family: "gilroy-bold";
+  src: url("../Assets/Gilroy-Font/Gilroy-Bold.ttf");
+}
+@font-face {
+  font-family: "gilroy-medium";
+  src: url("../Assets/Gilroy-Font/Gilroy-Medium.ttf");
+}
+@font-face {
+  font-family: "gilroy-heavy";
+  src: url("../Assets/Gilroy-Font/Gilroy-Heavy.ttf");
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
+
 .wrapper {
   width: 100%;
   max-width: 100%;
